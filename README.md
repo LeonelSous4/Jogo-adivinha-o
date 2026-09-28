@@ -105,6 +105,6 @@ Projeto de estudo. Sinta-se à vontade para usar como referência.
 
 ## 👨‍💻 Autor
 
-** Leonel Sousa **
+**Leonel Sousa**
 
 🔗 [LinkedIn](https://www.linkedin.com/in/leonel-sousa-9704a7243/)
